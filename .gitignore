@@ -1,0 +1,8 @@
+*.tif
+*.geojson
+*.json
+*.shp
+*.mp4
+results/
+helperfile/
+*.geojson
