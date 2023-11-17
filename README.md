@@ -1,5 +1,7 @@
 # DataDrought
 
+![](https://github.com/gigisung0503/north_korea_datadrought/blob/main/north_korea_huirong.gif)
+
 You can find our preliminary research here [here](https://arcg.is/0fmyT1).
 
 
