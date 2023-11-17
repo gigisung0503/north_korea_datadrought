@@ -1,7 +1,6 @@
 # DataDrought
-This repository was created as a part of UNdatathon2023.</br></br>
 
-You can find a story map [here](https://arcg.is/0fmyT1).
+You can find our preliminary research here [here](https://arcg.is/0fmyT1).
 
 
 ### Title: DataDrought: Bridging Digital Deserts in Climate Crisis
