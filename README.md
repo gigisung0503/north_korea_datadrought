@@ -9,9 +9,9 @@ You can find our preliminary research [here](https://arcg.is/0fmyT1).
 ### DataDrought: Bridging Digital Deserts in Climate Crisis
 #### Case Study: Unveiling North Korea’s Flood Impact Through Satellite Analytics 
 
-In addressing climate injustices, we've chosen to focus on regions like North Korea, where data scarcity deepens the impact of natural disasters. DataDrought, our initiative for the UN Datathon 2023, seeks to enhance digital connectivity and local action in areas affected by climate crises.</br></br>
+In addressing climate injustices, we've chosen to focus on regions like North Korea, where data scarcity deepens the impact of natural disasters. DataDrought seeks to enhance digital connectivity and local action in areas affected by climate crises.</br></br>
 
-Our project uses satellite analytics to make sense of climate hazards and supports efforts that align with the UN's Sustainable Development Goals. In particular, we aim to strengthen climate action, educational opportunities, and innovation through improved data use.</br></br>
+Our project uses satellite analytics to make sense of climate hazards and supports efforts that align with the UN's Sustainable Development Goals(SDG). In particular, we aim to strengthen digital connectivity, local action, and climate mitigation.</br></br>
 
 DataDrought is designed to reveal the hidden extent of climate disasters in data-poor regions, offering a scalable model for global application. It's a commitment to digital inclusivity and local empowerment in the face of climate challenges, aiming to transform satellite images into tools for resilience and recovery.</br></br>
 
