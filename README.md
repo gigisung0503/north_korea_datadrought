@@ -6,7 +6,7 @@ You can find our preliminary research [here](https://arcg.is/0fmyT1).
 
 
 
-### Title: DataDrought: Bridging Digital Deserts in Climate Crisis
+### DataDrought: Bridging Digital Deserts in Climate Crisis
 #### Case Study: Unveiling North Korea’s Flood Impact Through Satellite Analytics 
 
 In addressing climate injustices, we've chosen to focus on regions like North Korea, where data scarcity deepens the impact of natural disasters. DataDrought, our initiative for the UN Datathon 2023, seeks to enhance digital connectivity and local action in areas affected by climate crises.</br></br>
